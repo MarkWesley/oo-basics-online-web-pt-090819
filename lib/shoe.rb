@@ -11,5 +11,3 @@ class Shoe
   end
 
 end
-
-Shoe.cobble
